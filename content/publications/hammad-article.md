@@ -1,8 +1,8 @@
 ---
-title: It's Time to Move Past React
+title: It's Time to Hammad
 date: 2021-07-08
 tags: ["Hunter"]
-authors: ["max"]
+authors: ["hammad-siddiqui"]
 ---
 
 # How to Find these Instructions

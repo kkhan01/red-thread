@@ -40,5 +40,12 @@
 		"description": "Rachel Zhang is a student journalist at CUNY Hunter College, studying Chinese and English. She is Local Editor at The Envoy, Hunter's student-run newspaper, and Assistant Editor at The Icarus, Hunter's computer-science publication. She is a Chinese Flagship Scholar, Mellon Public Humanities Scholar and Macaulay Honors Scholar.",
 		"image": "https://media.journoportfolio.com/users/134877/images/profiles/d09bc7e7-9808-4153-ab08-620b39b7becf.jpg",
 		"badges": ["Editor"]
+	},
+	{
+		"username": "hammad-siddiqui",
+		"display_name": "Hammad Siddiqui",
+		"description": "Hammad Siddiqui is a student double majoring in Computer Science and Arabic with a minor in Math at Macaulay Honors College at Hunter College.",
+		"image": null,
+		"badges": ["Intern"]
 	}
 ]
