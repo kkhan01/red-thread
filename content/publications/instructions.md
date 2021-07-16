@@ -1,5 +1,5 @@
 ---
-title: It's Time to Learn React
+title: It's Time to Move Past React
 date: 2021-07-08
 tags: ["Hunter"]
 authors: ["max"]
